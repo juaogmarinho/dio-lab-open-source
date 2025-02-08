@@ -18,6 +18,7 @@ docs/
 │       └── scripts.js
 ├── favicon.ico
 ├── index.html
+├── CONTRIBUTING.md
 └── README.md
 ```
 
